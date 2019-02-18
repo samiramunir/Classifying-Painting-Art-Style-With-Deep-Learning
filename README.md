@@ -24,7 +24,7 @@ Engineered a CNN  on top of pretrained model VGG19 at the backend  to train on o
 
 Conducted hyper parameter tuning using Talos. 
 
-Final model: VGG19  +  4 Dense Layers (activation : Relu) + final layer (activation: Adam). Achieved test accuracy of 68%
+Final model: VGG19  +  4 Dense Layers (Relu) + final layer (Softmax). Achieved test accuracy of 68%.
 
 
 
