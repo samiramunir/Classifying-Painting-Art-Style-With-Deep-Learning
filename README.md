@@ -1,5 +1,4 @@
 # Classifying Paintings by their Art Styles
-Project Partner [Yi Shuen Lim](https://github.com/yishuen)
 
 ![](/Media/artstyles.png)
 
@@ -32,3 +31,7 @@ Final model: VGG19  +  4 Dense Layers (Relu) + final layer (Softmax). Achieved t
 
 
 ![](/Media/model.png)
+
+*************************************************************
+Project Partner [Yi Shuen Lim](https://github.com/yishuen)
+*************************************************************
