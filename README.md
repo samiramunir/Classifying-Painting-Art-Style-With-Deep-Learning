@@ -1,4 +1,5 @@
 # Classifying Paintings by their Art Styles
+Project Partner [Yi Shuen Lim](https://github.com/yishuen)
 
 ![](/Media/artstyles.png)
 
